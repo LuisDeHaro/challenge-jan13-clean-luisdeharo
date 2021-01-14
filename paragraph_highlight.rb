@@ -21,7 +21,7 @@ class ParagraphHighlight
 
 		html = ""
 
-		# iterathing to the paragraphs
+		# iterating over the paragraphs
 		paragraphs.each_with_index do |pg,i|
 
 			_output_paragraph = pg
